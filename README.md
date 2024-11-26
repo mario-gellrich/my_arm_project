@@ -3,16 +3,16 @@
 ## Usage:
 
 1. **Fork the Repository**  
-   - One group member (student) must fork this repository into their GitHub account.
-   - This student must then rename the fork according to the project name.
+   - One student (repository owner) must fork this repository into their GitHub account.
+   - The repository owner must then rename the fork according to the project name.
 
 2. **Invite Team Members**  
-   The student must invite all other group members as collaborators to the forked repository.  
+   The repository owner must invite all other group members as collaborators to the forked repository.  
    - Go to the fork, then to the upper menu > **Settings** > **Access** > **Collaborators**.  
    - Add your team members' GitHub usernames or email addresses one by one.
 
 3. **Access the fork via GitHub Codespaces**
-   - Each invited team members must access their GitHub account.
+   - Each invited team member must access their own GitHub account.
    - Go to the **+** button in the upper menu, navigate to **New Codespace** and click on it. 
    - Search for the name of the fork with the project name and launch a new GitHub Codespaces environment.
 

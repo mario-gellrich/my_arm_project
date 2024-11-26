@@ -14,10 +14,10 @@
 3. **Access the fork via GitHub Codespaces**
    - Each invited team members must access their GitHub account.
    - Go to the **+** button in the upper menu, navigate to **New Codespace** and click on it. 
-   - Search for the name of the fork and launch a new GitHub Codespaces environment.
+   - Search for the name of the fork with the project name and launch a new GitHub Codespaces environment.
 
 4. **Collaborate Within Codespaces**
-   - Regularly commit and synchronize changes to your code and data with Visual Studio Code.
+   - Commit and synchronize changes to your code and data with Visual Studio Code as often as possible.
    - If you have conflicts when merging, solve them with the integrated merge editor in Visual Studio Code.
    - Extent the Python libraries listed in requirements.txt if neccessary.
 

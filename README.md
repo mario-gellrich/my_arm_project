@@ -4,17 +4,17 @@
 
 1. **Fork the Repository**  
    - One group member (student) must fork this repository into their GitHub account.
-   - Rename the fork according to your project name.
+   - This student must then rename the fork according to the project name.
 
 2. **Invite Team Members**  
-   This student must invite all other group members as collaborators to the forked repository.  
-   - Go to **Settings** > **Access** > **Collaborators** in your forked repository.  
-   - Add your team members' GitHub usernames or email addresses.
+   The student must invite all other group members as collaborators to the forked repository.  
+   - Go to the fork, then to the upper menu > **Settings** > **Access** > **Collaborators**.  
+   - Add your team members' GitHub usernames or email addresses one by one.
 
-3. **Access the Repository via GitHub Codespaces**
-   - Access your GitHub account.
-   - Go to the **+** button in the upper menu, then navigate to **New Codespace** and click on it. 
-   - Search for the fork name and launch a new GitHub Codespaces environment.
+3. **Access the fork via GitHub Codespaces**
+   - Each invited team members must access their GitHub account.
+   - Go to the **+** button in the upper menu, navigate to **New Codespace** and click on it. 
+   - Search for the name of the fork and launch a new GitHub Codespaces environment.
 
 4. **Collaborate Within Codespaces**
    - Regularly commit and synchronize changes to your code and data with Visual Studio Code.

@@ -13,7 +13,7 @@
 
 3. **Access the fork via GitHub Codespaces**
    - Ensure each invited team member is logged into their own GitHub account.
-   - Navigate directly to the project repository (no need for a fork) via by including th repository URL in the browser (e.g. https://github.com/repository-owner/project-name)
+   - Navigate directly to the project repository (no need for a fork) by including the repository URL in the browser (e.g. https://github.com/repository-owner/project-name)
    - If you see the repository, click the **Code** button and go to the Codespaces tab.
    - Select **Create Codespace** on master to launch GitHub Codespaces.
 

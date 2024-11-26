@@ -17,12 +17,16 @@
    - If you see the repository in your browser, click the green **Code** button and go to the Codespaces tab.
    - Select **Create Codespace** on master to launch a new GitHub Codespaces environment.
 
-4. **Collaborate Within Codespaces**
+4. **Check Permissions**
+   - Verify that you have the necessary access (e.g., write or collaborator access) to interact directly with the repository.
+   - If unsure, check the repository's settings or contact the repository owner.
+
+5. **Collaborate Within Codespaces**
    - Commit and synchronize changes to your code and data with Visual Studio Code as often as possible.
    - If you have conflicts when merging, solve them with the integrated merge editor in Visual Studio Code.
    - Extent the Python libraries listed in requirements.txt if neccessary.
 
-5. **Directory Structure**
+6. **Directory Structure**
 ```
 project-template/
 │

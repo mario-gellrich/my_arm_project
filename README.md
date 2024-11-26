@@ -12,9 +12,10 @@
    - Add your team members' GitHub usernames or email addresses one by one.
 
 3. **Access the fork via GitHub Codespaces**
-   - Each invited team member must access their own GitHub account.
-   - Go to the **+** button in the upper menu, navigate to **New Codespace** and click on it. 
-   - Search for the name of the fork with the project name and launch a new GitHub Codespaces environment.
+   - Ensure each invited team member is logged into their own GitHub account.
+   - Navigate directly to the project repository (no need for a fork) via by including th repository URL in the browser (e.g. https://github.com/repository-owner/project-name)
+   - If you see the repository, click the **Code** button and go to the Codespaces tab.
+   - Select **Create Codespace** on master to launch GitHub Codespaces.
 
 4. **Collaborate Within Codespaces**
    - Commit and synchronize changes to your code and data with Visual Studio Code as often as possible.

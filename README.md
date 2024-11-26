@@ -16,11 +16,10 @@
    - Go to the **+** button in the upper menu, then navigate to **New Codespace** and click on it. 
    - Search for the fork name and launch a new GitHub Codespaces environment.
 
-4. **Collaborate Within Codespaces**  
-   - GitHub Codespaces provides an integrated development environment (IDE) pre-configured for the project.  
-   - All dependencies listed in `requirements.txt` or other setup files are automatically installed.
-   - Regularly commit and syncronize changes of your code and data using Visual Studio Code.
-   - If you have merge conflics, solve them using the built-in merge editor in Visual Studio Code.
+4. **Collaborate Within Codespaces**
+   - Regularly commit and synchronize changes to your code and data with Visual Studio Code.
+   - If you have conflicts when merging, solve them with the integrated merge editor in Visual Studio Code.
+   - Extent the Python libraries listed in requirements.txt if neccessary.
 
 5. **Directory Structure**
 ```

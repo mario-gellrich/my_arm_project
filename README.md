@@ -25,7 +25,7 @@
 5. **Collaborate Within Codespaces**
    - Commit and synchronize changes to your code and data with Visual Studio Code as often as possible.
    - If you have conflicts when merging, solve them with the integrated merge editor in Visual Studio Code.
-   - Extent the Python libraries listed in requirements.txt if neccessary.
+   - Install additional Python libraries and extent requirements.txt if neccessary.
 
 6. **Directory Structure**
 ```

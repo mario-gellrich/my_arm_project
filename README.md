@@ -7,7 +7,7 @@
    - The repository owner must then rename the repository according to the project name.
 
 2. **Invite Team Members**  
-   The repository owner must invite all other group members as collaborators to the forked repository.  
+   The repository owner must invite all other team members as collaborators to the forked repository.  
    - Go to the fork, then to the upper menu > **Settings** > **Access** > **Collaborators**.  
    - Add your team members' GitHub usernames or email addresses one by one.
    - All invited team members must accept the invitation to collaborate.

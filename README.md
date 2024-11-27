@@ -1,4 +1,4 @@
-# Project Template for the Module Applied Research Methods
+# Project Template Applied Research Methods
 
 ## Usage:
 

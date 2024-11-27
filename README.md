@@ -33,7 +33,7 @@
 ```
 project-template/
 │
-├── data/                       # Data files
+├── Data/                       # Folder with your data files
 ├── jupyter_notebook.ipynb      # Your Jupyter Notebook with markdown and code cells (change name if required)
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Project instructions (this file)

@@ -4,7 +4,7 @@
 
 1. **Fork the Repository**  
    - One student (repository owner) must fork this repository into their GitHub account.
-   - The repository owner must then rename the fork according to the project name.
+   - The repository owner must then rename the repository according to the project name (e.g. https://github.com/repository-owner/project-name)
 
 2. **Invite Team Members**  
    The repository owner must invite all other group members as collaborators to the forked repository.  

@@ -24,10 +24,10 @@
    - If unsure, check the repository's settings or contact the repository owner.
 
 5. **Collaborate Within Codespaces**
-   - Use the terminal to install additional Python libraries if neccessary (don't forget to extent the requirements.txt file).
    - Commit and synchronize changes to your code and data with Visual Studio Code as often as possible.
    - If you have conflicts when merging, solve them with the integrated merge editor in Visual Studio Code.
    - The following video explains how this works: https://www.youtube.com/watch?v=KuB6hYoLozw
+   - Use the terminal to install additional Python libraries if neccessary (don't forget to extent the requirements.txt file).
 
 6. **Directory Structure**
 ```

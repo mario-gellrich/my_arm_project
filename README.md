@@ -16,7 +16,7 @@
    - Ensure each invited team member is logged into their own GitHub account.
    - Navigate to the project repository (no need for a fork) by including the repository URL in the address bar of the browser 
      (e.g. https://github.com/repository-owner/project-name)
-   - If you see the repository in your browser, click the green **Code** button and go to the Codespaces tab.
+   - If you see the repository in the browser, click the green **Code** button and go to the Codespaces tab.
    - Click on the **+** sign then **Create a codespace on master** to launch a new GitHub Codespaces environment.
 
 4. **Check Permissions**
